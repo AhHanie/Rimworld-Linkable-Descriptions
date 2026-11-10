@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Linkable Descriptions</name>
+    <author>Sk</author>
+    <packageId>sk.linkabledescriptions</packageId>
+    <supportedVersions>
+        <li>1.7</li>
+    </supportedVersions>
+    <description>Shows the facility's description when you hover its build button on a selected building, such as a tool cabinet on a worktable or an end table on a bed. Clicking still starts placement as usual.</description>
+    <modVersion>1.0.0</modVersion>
+    <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3837322529</url>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
